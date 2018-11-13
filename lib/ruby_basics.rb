@@ -7,15 +7,15 @@ def assign_variable(value)
 end
 
 def argue(x)
-  return x
+  x
 end
 
 def greeting(x, y)
- return x+y
+ x+y
 end
 
 def return_a_value
-  return "Nice"
+  "Nice"
 end
 
 def last_evaluated_value
